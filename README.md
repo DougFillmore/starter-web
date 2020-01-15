@@ -15,6 +15,8 @@ Info about deployment
 ## How To Contribute
 How to Contribute info
 
+Please fork this repository
+
 ### Copyright
 
 2020 DSF

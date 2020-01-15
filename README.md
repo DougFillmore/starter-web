@@ -14,3 +14,7 @@ Info about deployment
 
 ## How To Contribute
 How to Contribute info
+
+### Copyright
+
+2020 DSF

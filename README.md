@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding more text.
+More changes from feature branch
 
 ## Introduction
 Th an example to show different parts of the git repository and various commands using a web project.

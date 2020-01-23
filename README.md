@@ -21,4 +21,4 @@ Please fork this repository
 
 ### Copyright
 
-2020 DSF
+2020 DSF. All rights reserved

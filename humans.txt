@@ -8,6 +8,7 @@
 # THANKS
 
     The Pug!
+	Please praise the Pug.
 
 # TECHNOLOGY COLOPHON
 
